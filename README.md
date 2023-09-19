@@ -2,7 +2,7 @@
 CS Student at HEIG Yverdon
 
 ## About Me
-- 📚 Currently an software computer systems student at HEIG Yverdon.
+- 📚 Currently a software computer systems student at HEIG Yverdon.
 - 💻 Passionate about programming and application development.
 - 🌐 Love exploring new ideas and working on interesting projects.
 
