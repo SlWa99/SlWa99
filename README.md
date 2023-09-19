@@ -16,7 +16,7 @@ CS Student at HEIG Yverdon
 
 ## Contact
 - 📧 [Email Address](mailto:walid.slimani@hes-so.ch)
-- 🔗 [LinkdIn]([www.linkedin.com/in/walid-slimani](https://www.linkedin.com/in/walid-slimani-0597bb210/))
+- 🔗 [LinkdIn](www.linkedin.com/in/walid-slimani-0597bb210)
 
 Feel free to reach out if you have any questions, suggestions, or want to discuss interesting projects!
 
